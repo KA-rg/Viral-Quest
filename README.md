@@ -5,7 +5,7 @@ Analyze Instagram posts to extract insights such as post mood, comment sentiment
 
 
 ---
-![Alt text]("main.png")
+![Alt text](main.png)
 ## Features
 
 - Fetch posts from Instagram using **Instagram Graph API**.
@@ -46,7 +46,8 @@ transformers
 torch
 moviepy
 
-![Alt text]("main.png")
+![Alt text](main.png)
+
 
 
 
