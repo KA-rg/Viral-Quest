@@ -3,7 +3,6 @@
 
 Analyze Instagram posts to extract insights such as post mood, comment sentiment, hashtags, video performance, and engagement metrics using Python and the Instagram Graph API.
 
-![Instagram Analysis](Screenshot 2025-09-21 122216.png)  
 
 ---
 
@@ -25,16 +24,20 @@ Analyze Instagram posts to extract insights such as post mood, comment sentiment
 
 ```bash
 git clone https://github.com/yourusername/instagram-analysis.git
-cd instagram-analysis
+cd instagram-analysis 
+```
 
 2. **Create a virtual environment (optional but recommended)**
+```bash
 python -m venv venv
 source venv/bin/activate       # Linux / macOS
 venv\Scripts\activate          # Windows
+```
 
 3. **Install independecies**
+```bash
 pip install -r requirements.txt
-
+```
 requirment.txt must include
 requests
 tqdm
@@ -43,9 +46,4 @@ transformers
 torch
 moviepy
 
-![Analysis Screenshot](Screenshot 2025-09-21 122216.png)
-# ViralQuest
-# Viral-Quest
-# Viral-Quest
-# Viral-Quest
 
