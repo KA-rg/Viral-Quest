@@ -3,7 +3,7 @@
 
 Analyze Instagram posts to extract insights such as post mood, comment sentiment, hashtags, video performance, and engagement metrics using Python and the Instagram Graph API.
 
-![Alt text](Screenshot 2025-09-21 122216.png)
+![Alt text]("Screenshot 2025-09-21 122216.png")
 ---
 
 ## Features
@@ -46,6 +46,7 @@ transformers
 torch
 moviepy
 
-![Alt text](Screenshot 2025-09-21 122216.png)
+![Alt text]("Screenshot 2025-09-21 122216.png")
+
 
 
